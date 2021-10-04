@@ -102,9 +102,29 @@ export default {
           to: '/'
         },
         {
+          icon: 'mdi-school',
+          title: 'Education',
+          to: '/education'
+        },
+        {
+          icon: 'mdi-briefcase',
+          title: 'Experience',
+          to: '/experience'
+        },
+        {
+          icon: 'mdi-chat-plus',
+          title: 'References',
+          to: '/references'
+        },
+        {
           icon: 'mdi-chart-bubble',
-          title: 'Inspire',
-          to: '/inspire'
+          title: 'Contact',
+          to: '/contact'
+        },
+        {
+          icon: 'mdi-auto-fix',
+          title: 'Experiments',
+          to: '/experiments'
         }
       ],
       miniVariant: false,
