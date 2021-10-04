@@ -128,9 +128,9 @@ export default {
         }
       ],
       miniVariant: false,
-      right: true,
+      right: false,
       rightDrawer: false,
-      title: 'Vuetify.js'
+      title: 'Rodrigo Herrero - Senior front end developer'
     }
   }
 }
